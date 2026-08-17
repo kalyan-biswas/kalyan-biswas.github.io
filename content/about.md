@@ -1,0 +1,2 @@
+### Hi👋
+I am Kalyan, a Computer Science and Engineering student at Faridpur Engineering College, Faridpur, Bangladesh. I am a passionate web developer focused on building modern, responsive, and user-friendly web applications. As a continuous learner, I dedicate my time to mastering the latest web technologies and turning creative concepts into clean code. I am eager to connect, collaborate, and bring a fresh perspective to upcoming development projects!
